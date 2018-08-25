@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="gamebtnSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1656bc8e3b9" ></w:Config>
+	<e:Image source="gametxt_png" x="-57.09" y="64.67" anchorOffsetX="0" width="754.18" anchorOffsetY="0" height="578.49"/>
+	<e:Button id="btn_easy" label="Easy" anchorOffsetX="123" anchorOffsetY="46" x="320" y="553">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="95%" height="95%" width.down="100%" height.down="100%" source="select_btn_png" source.down="select_btn_png" source.disabled="select_btn_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="47"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="btn_hard" label="Hard" y="834" anchorOffsetX="123" anchorOffsetY="46" x="320">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="95%" height="95%" width.down="100%" height.down="100%" source="select_btn_png" source.down="select_btn_png" source.disabled="select_btn_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="47"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="btn_normal" label="Normal" y="693" anchorOffsetX="123" anchorOffsetY="46" x="320">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="95%" height="95%" width.down="100%" height.down="100%" source="select_btn_png" source.down="select_btn_png" source.disabled="select_btn_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="47"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

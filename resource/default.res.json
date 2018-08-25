@@ -1,0 +1,295 @@
+{
+	"groups": [
+		{
+			"keys": "border_png,header_png,egret_icon_png,description_json,one_01_png,one_02_png,one_03_png,one_04_png,one_05_png,one_06_png,one_07_png,one_08_png,one_09_png,block_png,select_btn_png,gametxt_png,onenor_01_png,onenor_02_png,onenor_03_png,onenor_04_png,onenor_05_png,onenor_06_png,onenor_07_png,onenor_08_png,onenor_09_png,onenor_10_png,onenor_11_png,onenor_12_png,onenor_13_png,onenor_14_png,onenor_15_png,blocknor_png,blockhar_png,onehar_01_png,onehar_02_png,onehar_03_png,onehar_04_png,onehar_05_png,onehar_06_png,onehar_07_png,onehar_08_png,onehar_09_png,onehar_10_png,onehar_11_png,onehar_12_png,onehar_13_png,onehar_14_png,onehar_15_png,onehar_16_png,onehar_17_png,onehar_18_png,onehar_19_png,onehar_20_png,onehar_21_png,onehar_22_png,onehar_23_png,onehar_24_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "one_01_png",
+			"type": "image",
+			"url": "assets/imgone/one_01.png"
+		},
+		{
+			"name": "one_02_png",
+			"type": "image",
+			"url": "assets/imgone/one_02.png"
+		},
+		{
+			"name": "one_03_png",
+			"type": "image",
+			"url": "assets/imgone/one_03.png"
+		},
+		{
+			"name": "one_04_png",
+			"type": "image",
+			"url": "assets/imgone/one_04.png"
+		},
+		{
+			"name": "one_05_png",
+			"type": "image",
+			"url": "assets/imgone/one_05.png"
+		},
+		{
+			"name": "one_06_png",
+			"type": "image",
+			"url": "assets/imgone/one_06.png"
+		},
+		{
+			"name": "one_07_png",
+			"type": "image",
+			"url": "assets/imgone/one_07.png"
+		},
+		{
+			"name": "one_08_png",
+			"type": "image",
+			"url": "assets/imgone/one_08.png"
+		},
+		{
+			"name": "one_09_png",
+			"type": "image",
+			"url": "assets/imgone/one_09.png"
+		},
+		{
+			"name": "block_png",
+			"type": "image",
+			"url": "assets/block.png"
+		},
+		{
+			"name": "select_btn_png",
+			"type": "image",
+			"url": "assets/select_btn.png"
+		},
+		{
+			"name": "gametxt_png",
+			"type": "image",
+			"url": "assets/gametxt.png"
+		},
+		{
+			"name": "onenor_01_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_01.png"
+		},
+		{
+			"name": "onenor_02_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_02.png"
+		},
+		{
+			"name": "onenor_03_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_03.png"
+		},
+		{
+			"name": "onenor_04_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_04.png"
+		},
+		{
+			"name": "onenor_05_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_05.png"
+		},
+		{
+			"name": "onenor_06_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_06.png"
+		},
+		{
+			"name": "onenor_07_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_07.png"
+		},
+		{
+			"name": "onenor_08_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_08.png"
+		},
+		{
+			"name": "onenor_09_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_09.png"
+		},
+		{
+			"name": "onenor_10_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_10.png"
+		},
+		{
+			"name": "onenor_11_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_11.png"
+		},
+		{
+			"name": "onenor_12_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_12.png"
+		},
+		{
+			"name": "onenor_13_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_13.png"
+		},
+		{
+			"name": "onenor_14_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_14.png"
+		},
+		{
+			"name": "onenor_15_png",
+			"type": "image",
+			"url": "assets/imgonenor/onenor_15.png"
+		},
+		{
+			"name": "blocknor_png",
+			"type": "image",
+			"url": "assets/blocknor.png"
+		},
+		{
+			"name": "blockhar_png",
+			"type": "image",
+			"url": "assets/blockhar.png"
+		},
+		{
+			"name": "onehar_01_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_01.png"
+		},
+		{
+			"name": "onehar_02_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_02.png"
+		},
+		{
+			"name": "onehar_03_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_03.png"
+		},
+		{
+			"name": "onehar_04_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_04.png"
+		},
+		{
+			"name": "onehar_05_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_05.png"
+		},
+		{
+			"name": "onehar_06_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_06.png"
+		},
+		{
+			"name": "onehar_07_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_07.png"
+		},
+		{
+			"name": "onehar_08_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_08.png"
+		},
+		{
+			"name": "onehar_09_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_09.png"
+		},
+		{
+			"name": "onehar_10_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_10.png"
+		},
+		{
+			"name": "onehar_11_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_11.png"
+		},
+		{
+			"name": "onehar_12_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_12.png"
+		},
+		{
+			"name": "onehar_13_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_13.png"
+		},
+		{
+			"name": "onehar_14_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_14.png"
+		},
+		{
+			"name": "onehar_15_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_15.png"
+		},
+		{
+			"name": "onehar_16_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_16.png"
+		},
+		{
+			"name": "onehar_17_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_17.png"
+		},
+		{
+			"name": "onehar_18_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_18.png"
+		},
+		{
+			"name": "onehar_19_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_19.png"
+		},
+		{
+			"name": "onehar_20_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_20.png"
+		},
+		{
+			"name": "onehar_21_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_21.png"
+		},
+		{
+			"name": "onehar_22_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_22.png"
+		},
+		{
+			"name": "onehar_23_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_23.png"
+		},
+		{
+			"name": "onehar_24_png",
+			"type": "image",
+			"url": "assets/imgonehar/onehar_24.png"
+		}
+	]
+}
